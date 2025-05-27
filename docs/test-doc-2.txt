@@ -1,0 +1,437 @@
+I denne artikkelen undersøker jeg hvilken rolle begrepene «aidōs» og «aiskhynē» spiller i Aristoteles og Epiktets
+moralpsykologi og etikk. Begge disse begrepene blir tidvis oversatt til «skam». I Vesten er det nok ikke kontroversielt
+å hevde at skam har et forholdsvis dårlig rykte; skam blir gjerne ansett for å være noe vi bør forsøke å kvitte oss med.
+Som David Konstan skriver: «Vi skammer oss over skammen vår» (2006, 110). Skam er dog en følelse som rommer
+mye: det er en følelse som hindrer oss fra å gjøre handlinger som vi anser for å være moralsk forkastelige eller forne-
+drende, samtidig som skam også kan være en slags smerte vi føler når vi tenker over, eller blir konfrontert med, ting
+fra fortiden som vi gremmes over. I løpet av denne teksten håper jeg å gjøre det klart at skam kan være et gode, sett
+at skammen treffer riktig. Å føle skam over for eksempel en rumlende mage, eller avstå fra å oppsøke hjelp når man
+har havnet i vanskeligheter man selv ikke er i stand til å løse, er åpenbart irrasjonelt. Imidlertid kan det å føle skam
+over ens egne moralske tilkortkommenheter, eller over tanken på å gjøre en moralsk forkastelig handling, se ut til
+å være svært hensiktsmessig for vår moralske utvikling. Siden skam har fått et dårlig rykte i vår samtid, tror jeg det
+kan være hensiktsmessig å se tilbake til tidligere tenkere som har et litt annet perspektiv på skam, for å lettere kunne
+vurdere dens nytte og unytte.
+Av Harald Langslet Kavli
+ner vi i Retorikken, hvor Aristoteles skriver om talekunsten.
+Følelser er viktig for retorikk; ett av de sentrale virkemid-
+lene for å utrykke seg overbevisende, er tross alt å spille på
+følelser. Hvis du forsvarer en person som er tiltalt for drap,
+som også har vedgått å ha utført drapet, kan det kanskje
+være lurt å trekke frem vonde hendelser i drapsmannens
+liv for å forsøke å vekke medfølelse hos dommerne slik at
+de muligens straffer ham mildere. Dersom du derimot er
+aktor, er det flere andre følelser du kan spille på: Du kan
+spille på dommernes frykt for at de selv eller noen de er
+glade i skal bli utsatt for en uønsket hendelse dersom en
+person som dette går fri, eller du kan spille på smerten
+som de har følt når de har mistet noen. Det er dermed
+ikke nødvendigvis tilfellet at Aristoteles har som mål å gi
+en fullstendig drøftelse av alle mulige aspekter ved følelser
+i Retorikken, men heller drøfte følelser for så vidt som de er
+nødvendige for talekunsten.
+Aristoteles er en filosof som i aller høyeste grad tar fø-
+lelser alvorlig. Han mener blant annet at dyd har et affek-
+tivt aspekt, det vil si at en dydig person vil føle visse ting,
+i riktig grad, på rett tid, i rett situasjon, rettet mot riktige
+Forkortelser til antikke originaltekster
+EN: Aristoteles, Den nikomakiske etikk
+Rhet: Aristoteles, Retorikken
+DL: Diogenes Laertius, Berømte filosofers liv og lære
+Dis: Lucius Flavian Arrianos, Epiktets diskurser
+Enkh: Lucius Flavian Arrianos, Enkhiridion
+Tusc: Cicero, Tuskulanske disputasjoner
+Aristoteles og stoikerne om følelser
+På generelt grunnlag er det lurt å være spesielt oppmerk-
+som på hvilke spørsmål som Aristoteles baler med i
+sine forskjellige skrifter når man forsøker å lese ham. Når
+han diskuterer hvorvidt handlinger er utført hekanton eller
+akonton (ofte oversatt til henholdsvis «frivillig» og «ufri-
+villig») og prohairesis (beslutning, foretak), diskuterer han
+disse begrepene i en bestemt kontekst. Disse begrepene er
+nødvendig for å forstå hvilke av våre handlinger vi kan
+og ikke kan klandres for, samt for å forstå sammenhengen
+mellom dyd og handlinger.
+Følelser drøftes flere steder i Aristoteles’ verker, men
+den lengste sammenhengende diskusjonen av følelser fin-65
+mål. Følgelig vil ikke en person som er sint på en person
+for en filleting i flere år, eller en person som ikke blir sint
+når han eller hun blir utsatt for en krenkelse som krever
+sinne, være dydig.
+Følelser har også et kognitivt aspekt, hvilket innebæ-
+rer at de har en tett sammenheng med oppfatningene vi
+har. Hvis jeg føler sinne mot en person fordi jeg tror at
+vedkommende har utsatt meg for en grov krenkelse, vil
+trolig dette sinnet forsvinne dersom jeg finner ut at ved-
+kommende ikke har krenket meg, men at det heller er jeg
+som har misforstått situasjonen.
+Dersom vi ønsker å spille på sinnet – for eksempel hvis
+vi ønsker å gjøre en dommer sint på en tiltalt i en rettssak
+– er det tre ting vi bør vite, ifølge Aristoteles: 1) på hvil-
+ken måte dommeren er disponert til å være sint, 2) hvem
+dommeren er sint på, og 3) hvilke ting det er som gjør at
+dommeren blir sint.
+Når det kommer til kilder for de tidlige stoikerne, er
+det dessverre svært lite som er blitt bevart. Det lille som
+har overlevd, finnes ofte kun som sitater og parafraseringer
+i de bevarte skriftene til andre tenkere. Vi vet imidlertid
+at Zenon (død ca. 262 f.Kr.), grunnleggeren av stoisis-
+men, skrev et verk om følelser, siden Diogenes Laertius’
+avhandling om Zenons liv inneholder en bibliografi.1 De
+senere stoikerne skrev også verker om dette, men lite har
+overlevd. Vi har likevel nok kilder til å kunne forstå hoved-
+trekkene i stoikernes teori om følelser. De nevnte fragmen-
+tene, et par doksografier og et par senere tekster fra blant
+annet Cicero (død 42 f.Kr.) og Seneca (død 65 e.Kr.) har
+overlevd fram til vår tid. Epiktet (død ca. 135 e.Kr.) har
+ingen egne avhandlinger viet ene og alene til følelser,2 men
+tanken om at vi skal fri oss fra begjær og frykt for ting som
+er utenfor vår kontroll, er et dominerende tema i tekstene
+som har blitt bevart.3
+Det første punktet som bør klargjøres for å forstå stoi-
+kernes syn på følelser, er at begrepet de bruker for «følelse»,
+pathos (fl. pathē), er noe mer snevert enn det vi mener med
+begrepet i dag. En pathos er, kort fortalt, det som følger av
+en feilaktig oppfatning om goder og onder, og kan videre
+deles opp temporært. Dette gir oss følgende skjema:4
+Pågående Fremtidig
+Gode Nytelse (hēdonē) Begjær (epithymia)
+Onde Misnøye (lypē) Frykt (fobos)
+Et konkret eksempel på et tilfelle av pathos’en «frykt»,
+er en person som frykter å bli henrettet. For stoikerne er
+hverken det å dø, eller smerten som eventuelt er en del av
+dødsprosessen, et onde. Jeg har dessverre ikke anledning
+her til å gå nevneverdig inn på stoikernes aksiologi (teorier
+om hva som er verdifullt/godt), så jeg vil derfor nøye meg
+med å nevne at stoikerne mente at dyd er det eneste som
+er ubetinget godt.
+Stoikerne mente også at det ikke finnes noen mellom-
+ting mellom å være dydig og å være lastefull, og det er bare
+den dydige personen som vil ha de såkalt gode følelsene
+(eupatheiai). Det som kjennetegner disse følelsene er at de
+springer ut av korrekte oppfatninger av goder og onder.
+De kan skjematiseres slik:5
+Pågående Fremtidig
+Gode Glede (khara) Ønske (boulēsis)
+Onde Forsiktighet (eulabeia)
+Det store spørsmålet er om det finnes noen tilsvarende
+gode følelser for oss som ikke er vismenn. Hvis jeg for
+eksempel begjærer å bli dydig og etterstreber det i ethvert
+henseende, eller føler skam over mine moralske tilkort-
+kommenheter, så kan det vanskelig sies å være eksempler
+på pathē, ettersom disse følelsene ikke er resultater av feil-
+aktige oppfatninger. Dyd er et gode, last er et onde.
+Aristoteles og stoikerne er enige i at følelser har et
+klart kognitivt aspekt, fordi de vil være enige i at en end-
+ring av en oppfatning vil føre til en endring av følelsen.
+De vil også være enige i at dyder har et affektivt aspekt.
+Imidlertid vil de være forholdsvis uenige i hvordan de ser
+på en dydig persons følelsesliv. Aristoteles mener at det å
+føle sinne – på rett tid, i riktig grad, av rette grunner, og
+så videre – er en følelse som er knyttet til dyden mildhet
+(praotēs) (EN, IV, 5, 1125b–25–35). Stoikerne insisterer
+derimot på at sinne aldri er et gode.6
+Aristoteles om skam
+Grekerne hadde to ord som kan oversettes med «skam»:
+aidōs og aiskhynē. Hvorvidt disse begrepene er synonymer,
+er omdiskutert. David Konstan viser til EN (1128b32–3),
+hvor Aristoteles later til å se på aidōs som noe som dreier
+seg om det nåtidige eller fremtidige, mens aiskhynē også
+handler om det fortidige. Konstan viser også til stoiker-
+nes teorier om skam gjengitt i DL VII, 112 og 116, hvor
+aiskhynē blir behandlet som en type frykt (som er en pat-
+hos), mens aidōs er en undergruppe av den gode følelsen
+forsiktighet (Konstan, 2006, 95–6). Begge begrepene
+kan dog oversettes med «skam», ifølge LSJ, en mye brukt
+gresk-engelsk ordbok.
+ARTIKKEL66
+Dersom man har en venn som enten blir forbigått på noen
+områder i livet eller som har blitt utsatt for urett, og denne
+vennen opplever skam i forbindelse med dette, virker det
+naturlig å si til denne vennen at det ikke er noe å skamme
+seg over. Det at man for eksempel har vært utsatt for blind
+vold og ikke evnet å forsvare seg, er noe som er utenfor ens
+egen kontroll, på lik linje med en rumlende mage under
+et jobbmøte. Det er ikke noe man kan klandres for, og
+følgelig ikke noe som bør anses for å være skammelig. Nå
+kan det dog innvendes at Aristoteles først og fremst ser ut
+til å være interessert i å si noe om hva vi faktisk føler skam
+for, og ikke nødvendigvis hva vi bør føle skam over. Det
+kan med andre ord tenkes at han er mer deskriptiv enn
+normativ.
+Et annet mulig forsvar er at skam for Aristoteles er til-
+knyttet vår anseelse hos våre likemenn, og følgelig bør vi
+kanskje ikke nødvendigvis insistere på at skam bare kan
+knyttes til det vi faktisk har kontroll over. Dersom man
+jevnlig blir tråkket på av andre, selv om det ikke er fortjent,
+og man enten forsøker å forsvare seg og ikke evner, eller
+simpelthen finner seg i det, vil dette trolig påvirke hvordan
+andre mennesker ser på en. Det samme gjelder også den
+manglende evnen til å nyte ytre goder. Vi føler skam over-
+for de menneskene som vi verdsetter meningen til, men
+det er ikke vanære i seg selv som er et onde, men snarere
+vanæren i anstendige menneskers øyne. Vi føler også skam
+overfor mennesker som vi beundrer. Vi kan også føle skam
+når vi omgås med mennesker som er mer tilbøyelig enn
+andre til å føre oss ut i vanære, slik som folk som liker å
+sladre eller komediediktere (1384a21–b9). Sistnevnte har
+især en unik hang til å latterliggjøre, og kan derfor, ifølge
+Alessandra Fussi, skade anseelsen vår hos de menneskene
+som vi er opptatt av å bli anerkjent av (Fussi 2015, 120).
+Videre er vi disponert til å føle skam dersom vi (1) har
+relasjoner til mennesker hvis oppfatning vi bryr oss om, og
+(2) hvis disse menneskene er i stand til å se eller få rede på
+de skammelige tingene vi har gjort (1384b26–35).
+Kan vi skamme oss over å gjøre noe skammelig selv om
+vi ikke er i nærheten av noen som kan true vår anseelse?
+Utfra Aristoteles’ forståelse av skam, tror jeg at svaret må
+være nei. Dette betyr imidlertid ikke at jeg ikke kan føle
+at jeg har kommet til kort på en eller annen måte, eller på
+andre måter føle at jeg bør jobbe med min karakter. Fussi
+skriver at fravær av vitner som kan utgjøre en forskjell på
+min offentlige anseelse «hindrer følelsen av skam, men det
+hindrer ikke nødvendigvis følelser som henger sammen
+med vår ansvarsfølelse eller oppfatning om å ha feilet»
+(Fussi 2015, 118). Skammen er imidlertid et sosialt feno-
+men for Aristoteles, ergo forutsetter den – og sågar krever
+I Retorikken definerer Aristoteles skam (aiskhynē) som
+[…] en type smerte eller forstyrrelse som følge av en
+frykt for de ondene, det være seg fortidige, nåværen-
+de eller fremtidige, som synes å føre en inn i vanære,
+mens skamløshet [anaiskhyntia] er en likegyldighet
+eller følelsesløshet overfor de samme ting (Rhet, II, 6,
+1183b12–15).
+Videre følger Aristoteles skjemaet fra bok II, kapittel 1,
+hvor han undersøker hva som gjør oss skamfulle, hvem
+vi føler skam overfor og hvordan vi er disponert for å føle
+skam. Vi føler skam over å gjøre ting som viser at vi er
+lastefulle, som for eksempel å kaste fra oss skjoldet i en
+kamp (dette viser mangel på mot), seksuelle utskeielser
+(dette viser mangel på måtehold), eller å ikke gjøre opp
+for seg, snakke for mye om seg selv, smiske eller utvise en
+manglende evne til å tåle ubehag (1383b15–84a7).
+Aristoteles hevder også at vi opplever skam når vi ikke
+tar del i de edle tingene som ens likemenn har, for eksem-
+pel dersom vi ikke har den samme utdanningen som ens
+jevnaldrende landsmenn av samme bakgrunn (genos), og
+særlig hvis vi selv er skyld i at vi mangler disse tingene
+(1384a8–14). Vi føler også skam dersom vi blir utsatt for,
+har vært utsatt for eller vil bli utsatt for ting som fører
+til vanære. Et eksempel på dette er å bli utsatt for vold,
+ettersom dette er et tegn på manglende mandighet og
+mot (1184a15–20). De to sistnevnte er ikke like åpenbart
+knyttet til dyd.
+Her ser vi kanskje et skille mellom hva vi moderne
+mennesker kan være fristet til å kalle god og dårlig skam.
+Å føle skam for våre egne feiltrinn gir mening. Hvis jeg er
+utro mot kona eller snyter på skatten, eller hvis jeg er en
+stortingspolitiker som unnlater å melde flytting fra gutte-
+rommet på Sørlandet, selv om jeg eier en bolig i Lillestrøm,
+slik at jeg kan få en gratis tjenestebolig av Stortinget og
+samtidig spe på lønninga som er rett under én million i
+året ved å leie ut nevnte bolig, gir det mening å si at jeg bør
+føle skam. Men å ikke nå like høyt på karrierestigen som
+mine jevnaldrende, uten at det nødvendigvis skyldes min
+egen latskap, vil – i hvert fall i de tilfellene hvor elementer
+utenfor min kontroll har lagt hindre i veien – ikke være
+noe som sier noe om meg som person. I hvert fall ikke på
+den samme måten som å kaste fra seg skjoldet og løpe vekk
+fra slagmarken gjør. Det samme gjelder for det å bli utsatt
+for mishandling. Det er uklart hva Aristoteles mener er
+skammelig ved dette. Er det skammelig at man ikke for-
+søker å forsvare seg? Er det mangelen på evne til å forsvare
+seg som er det skammelige? Eller er det begge deler?
+OM SKAM67
+– at andre mennesker, som har en viss evne til å påvirke
+ryktet vårt, får med seg feiltrinnene våre.
+Hvilken rolle kan vi si at skam spiller i den etiske ut-
+viklingen i Aristoteles’ tenkning? I EN hevder Aristoteles
+at skam ikke er en dyd, da skam er mer som en følelse
+og ikke en disposisjon (IV, 9, 1128b10–11). Skam er noe
+som er mer passende for en ung person enn for en gam-
+mel, siden unge mennesker i større grad er styrt av sine
+følelser og følgelig trenger å bli korrigert oftere. Skam er
+imidlertid ikke passende for voksne mennesker, fordi man
+kan forvente mer av dem gitt deres livserfaring. Følgelig
+kan vi derfor forvente at de avstår fra å gjøre skammelige
+handlinger.
+Vi kan dermed si at skam spiller en rolle, har en sær-
+egen funksjon, i den moralske utviklingen fra barndom til
+voksenalder. Skam synes i så måte å ha en betinget verdi,
+i kraft av å være noe som kan gjøre oss mottakelige for
+moralske korrektiver i en periode av livet hvor vi ennå ikke
+forventes å kunne handle utfra en dydig karakter. Vi bør
+også legge merke til skillet som Aristoteles trekker mel-
+lom å skamme seg over ting vi oppfatter som skamfulle på
+bakgrunn av konvensjoner, versus det som simpelthen er
+skammelig i seg selv. Overfor bekjente føler vi skam for det
+som er skammelig, mens vi overfor fremmede føler skam
+for det som er ansett som skammelig helt og holdent av
+konvensjon. Aristoteles hevder at barn er særlig disponerte
+for å føle skam, siden de ennå ikke har forstått hva som
+virkelig er edelt, men snarere har blitt opplært av nomos
+(lov/konvensjon) alene (Rhet, II, 12. 1389a29–30).
+Epiktet om skam
+Kildene våre til Epiktets filosofi begrenser seg i all ho-
+vedsak til nedtegnelsene fra en av hans elever, Arrianos.
+Diskursene regnes gjerne for å opprinnelig ha vært lengre
+enn den teksten som har overlevd fram til vår tid. Det
+blir imidlertid noe tungvint å innlede ethvert sitat med
+forbeholdet «Arrianos hevdet at Epiktet sa…» hver gang
+jeg siterer fra Diskursene, derfor vil jeg tillate meg å sim-
+pelthen skrive at «Epiktet skriver at…» istedenfor den mer
+omstendelige varianten. Det er, som sagt, ingen fullsten-
+dig avhandling om følelser i Epiktets skrifter, men flere av
+følelsene blir diskutert med jevne mellomrom. Blant disse
+finner vi aidōs, samt adjektivet som er beslektet med aidōs:
+aidēmōn.
+Det er vanskelig å oversette dette ordet til norsk uten
+at det blir kronglete. «Beskjeden» kan hjelpe oss litt i gang,
+men det kommer til kort da denne følelsen ikke kun om-
+fatter den moderate tilbakeholdenheten vi viser ved mat-
+bordet. «Måteholden» er en bedre oversettelse, og det kan
+kanskje også være nyttig å forstå det som et antonym til
+hybris. Så mens en overmodig person overskrider grensene
+for det akseptable, og gjerne ikke evner å se grensene i det
+hele tatt, vil en person som er aidēmōn holde seg innen-
+for. Dette kan sees i sammenheng med Epiktets rolleetikk,
+altså tanken om at det vi bør og ikke bør gjøre kan knyttes
+opp mot hvem og hva vi er. For å vite hvem og hva vi er må
+vi se både til vår felles menneskelige natur, som rasjonelle
+og sosiale vesener, men også til vår individuelle natur, som
+henger sammen med anlegg, status i et samfunn og den
+spesifikke situasjonen vi befinner oss i på et bestemt tids-
+punkt. For Epiktet virker det som at det å være aidēmōn
+også er noe som definerer oss som mennesker:
+Søk, og du vil finne det som skiller oss [fra dyrene]. Se
+at vi forstår det som vi gjør, se at forskjellen ligger i vår
+fellesskapsfølelse, vår troverdighet, vår måteholdenhet,
+vår standhaftighet, vår intelligens. Så hvor er det store
+godet og ondet for mennesker? Der hvor de skiller seg
+ut (Dis, I, 28.20–21).
+Videre skriver Epiktet: «Hvordan er vi født? Som frie, edle,
+og måteholdne. For hvilket annet dyr rødmer? Hvilket an-
+net dyr forstår forestillingen om det skammelige? [poion
+aiskhrou fantasian lambanei]» (Dis, 3.7.27). Skam spil-
+ler også inn på hvilke idéer vi kan gi vår tilslutning til:
+«Likefullt, naturen har gitt meg skamfølelsen [aidōs], og
+jeg rødmer ofte når jeg tar meg i å si noe skammelig. Og
+det er denne bevegelsen som ikke tillater meg å anse ny-
+telse for å være et gode og livets formål» (Fragment 14).
+Skamfølelsen er også noe som kan bygges opp eller
+brytes ned av våre egne handlinger. På samme vis som
+Aristoteles mener at vi blir rettskafne av å gjøre rettskafne
+handlinger, vil Epiktet si at vi bryter ned skamfølelsen vår
+ved å gjøre skammelige handlinger, og bygger den opp
+ved å handle i tråd med den. Dette ser vi blant annet i
+Diskursene, bok 2, kapittel 4, hvor Epiktet prater til en
+person som har tråkket over en grense for seksuell sømme-
+lighet (tilsynelatende ved å legge seg etter en annen manns
+kone). Her er Epiktets anklage at ved å gjøre slike ting,
+vil vi ødelegge skamfølelsen vår, som igjen ødelegger fel-
+lesskapsfølelsen (Dis, II, 4.2–3). Videre hevder han at på
+samme måte som en snekker og en grammatiker bevarer
+sin kunst (tekhnē) ved å utføre det på kyndig vis, og bryter
+det ned ved å gjøre det ukyndig, vil en person bryte ned
+skamfølelsen sin ved å gjøre skammelige handlinger, og
+bygge den opp med å gjøre måteholdne handlinger (Dis,
+II, 9.10–11).
+HARALD LANGSLET KAVLI
+ARTIKKEL68 OM SKAM
+Epiktets drøftelse av skam ser ikke ut til å ha nevneverdig
+mye med en frykt for et dårlig rykte å gjøre, selv om det
+definitivt er et sosialt aspekt ved skam, ettersom evnen til
+å føle skam ser ut til å henge sammen med fellesskapsfø-
+lelsen og evnen til å leve ut vår rasjonelle og sosiale natur.
+Aidōs ser også ut til å henge sammen med begrepet om pas-
+sende handlinger, eller kathēkonta. I artikkelen «ΑΙΔΩΣ
+in Epictetus» (1998) hevder Rachanan Kamtekar at aidōs
+utstyrer oss med en evne til å reflektere over handlingene
+våre – ikke bare over hvorvidt de er riktig eller gale, men
+også hvordan handlingene vi utfører sier noe om oss som
+moralske aktører (Kamtekar 1998, 147). For å forstå dette
+argumentet, må vi gå nærmere inn på Epiktets rolleetikk.
+Hvis vi ser til Diskursene bok II, kapittel 10, finner vi
+en slags hierarkisk tilnærming til rollene. Vi starter med
+å vurdere hva som er passende for oss i kraft av å være
+mennesker, og ettersom mennesker er rasjonelle og sosiale
+skapninger, vil de passende handlingene for oss være ra-
+sjonelle og sosiale handlinger. Dette er igjen basert på en
+antagelse om at organismer spiller en bestemt rolle i en
+større helhet, og at vår lykke i dette livet er knyttet opp
+mot denne rollen. Vi blir lykkelige og lever rett når vi lever
+i henhold til vår egen funksjon og natur i den større helhe-
+ten. Dernest følger andre roller, som vi har i kraft av å være
+far, borger i en bestemt by, og så videre. Vi kan dermed
+utlede passende handlinger til dels utfra vår menneskelig-
+het, og til dels – kanskje mer spesifikt – i kraft av å inneha
+bestemte relasjoner til andre mennesker og bekle bestemte
+posisjoner i et samfunn.
+I alle tilfeller vil en passende handling være noe som
+innebærer å spille rollen sin på en god måte. Aidōs kom-
+mer inn i bildet når vi ser spennet mellom hvordan vi bør
+leve, i kraft av rollene våre, og hvordan vi faktisk lever.
+Særlig blir dette tydelig i kraft av at mennesket er et for-
+standsvesen, som følgelig er potensielt guddommelig for
+stoikerne:
+Du bærer rundt på en gud, ditt nek (talas), og du er
+uvitende om dette. Tror du at jeg snakker om en ytre
+gud av gull eller sølv? Du bærer den i deg selv, og du
+sanser ikke at du skitner den til med urene tanker og
+handlinger. Og dersom et gudebilde hadde vært her
+nå, ville du ikke ha våget å gjøre de tingene som du nå
+gjør. Men når guden er til stede i deg selv, og den ob-
+serverer og hører alt, føler du ikke skam over å tenke på
+og gjøre disse tingene som du gjør, uten å fornemme
+din egen natur og mens du er under guds vrede? (Dis,
+II, 8.12–15).
+Avsluttende betraktninger
+Jeg har forsøkt å gi en kort fremstilling av hvordan
+Aristoteles og Epiktet forstår følelser generelt, og skam
+spesielt. Jeg har lagt spesielt stor vekt på skammens rolle i
+sosial samhandling og vår moralske utvikling. Jeg skal av-
+slutningsvis kort si noe om hvorvidt skam er et gode eller
+ikke, og hva filosofene som jeg har diskutert ville ha svart
+på dette spørsmålet, samt hvordan disse tankene passer inn
+i vår moderne forestilling om skam.
+Rent intuitivt tror jeg at både Aristoteles og Epiktet
+vil si at skam kan være et gode. Vi har sett at Aristoteles
+tilkjenner skam en viss betydning for unges moralske ut-
+vikling, til tross for at han også skriver at «[…] vi vil ikke
+lovprise en eldre person for å være skamfull, ettersom vi
+mener at han ikke bør gjøre noe som gir grunn til skam»
+(EN, IV, 9. 1128b20–21). Senere i samme kapittel hev-
+der Aristoteles at en anstendig person vil avstå fra å gjøre
+skammelige handlinger, og at det vil være absurd av en
+person å hevde at han er anstendig for å føle skam over
+det skammelige han har gjort. Dette er nok sant, men jeg
+lurer fortsatt på om Aristoteles vil tilkjenne skammen en
+viss rolle som en motiverende faktor, eksempelvis for en
+lastefull person som har innsett sin lastefullhet og ønsker
+å gjøre opp for dem. Vil skammen over tidligere moralske
+feiltrinn kunne motivere ham til å unnlate å gjøre dem
+igjen i fremtiden? Vi så også at Aristoteles hevder at vi
+føler skam for enkelte ting som er utenfor vår kontroll.
+Dette tror jeg rent deskriptivt er veldig sant, men jeg er
+litt mer usikker på hvorvidt vi bør føle skam over slike ting
+og hvorvidt vi bør forsøke å endre på disse oppfatningene.
+Hos Epiktet så vi at skam er et sentralt trekk ved det å
+være menneske. Skam henger sammen med vår forståelse
+av hvem vi er og hvilken rolle vi bør spille. Vi så at skam
+er en sentral motivator for å utvikle dyd og fellesskapsfø-
+lelse – det er følgelig ikke noe vi burde bekjempe. Hva
+Epiktet ville ha sagt om skammen vi føler over å ikke nyte
+av de godene som våre likemenn nyter av, eller av det å bli
+utsatt for urett, er jeg litt mer usikker på. På den ene siden
+ville han nok ha blånektet for at ting som jobb og karriere,
+utdannelse og anseelse, er goder. Samtidig tror jeg Epiktet
+ville ha vært langt mer tilbøyelig til å mene at å unnlate å
+spille den rollen man kan samfunnet, gitt de evnene og
+disposisjonene man har, er et onde. Følgelig vil en person
+som har tilgang på alt av politiske verv, men som velger det
+bort til fordel for et mer bedagelig og mindre samfunns-
+nyttig liv, gjøre noe skammelig. Jeg tror uansett at det er
+gode grunner til å slutte å skamme oss over skammen vår,
+og heller forsøke å dirigere den mot de passende – ja, rette
+– målene. Skam ser altså ut til å spille en viktig rolle i69
+vår moralske utvikling og selvforståelse. Det er, med andre
+ord, ikke noe vi bør forsøke å kvitte oss fullstendig med.
