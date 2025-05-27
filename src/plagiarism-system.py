@@ -1,5 +1,8 @@
-from cosine_similarity import cosine_similarity
+from utils.cosine_similarity import cosine_similarity
+from utils.document_chuncker import yield_chunk
+from utils.vector_builder import build_word_list_from_input_and_corpus, get_content_as_string
 from itertools import product
+from doc_chunk import Doc_chunk
 import math
 import re 
 
@@ -19,8 +22,56 @@ class Plagiarism_System:
         
         
     def preprocess_documents(self, input_file, document_dir): 
-        pass 
+         
     # preprocess the docs, fill out the constructor. 
+    
+        """
+        Sketched workflow, might not be the right order
+        
+        1 build vocab from docs
+        
+        2 build chunks from docs 
+        
+        3 build a mapping from an index to the vocablist
+        
+        4 build dfs
+        
+        vector creation can be separated out to a different function, already getting long
+        
+        compare will deal with the comparisons 
+        
+        
+        
+        """
+        
+        # 1 
+    
+        self._vocab = build_word_list_from_input_and_corpus(self._input_file, self._document_dir)
+        
+        # 2 
+        
+        # for input file
+        
+        input_file_as_str = get_content_as_string(self._input_file)
+        
+        self._doc_chunks_input = yield_chunk(input_file_as_str)
+        
+        
+            
+
+    
+    
+    def build_df_dict(self): 
+        
+        for term in self._vocab: 
+            
+            for doc in zip(self._doc_chunks_input, self._doc_chunks): 
+                if term in doc: 
+                    if self._doc_frequency_dict[term]: 
+                        self._doc_frequency_dict[term] +=1 
+                    else: 
+                        self._doc_frequency_dict[term] = 1
+    
     
     
     def compare(self): 
@@ -41,20 +92,7 @@ class Plagiarism_System:
 
 # Move tf-idf files into this class, since we're probably going to modify it slightly. Perhaps modify, move to ./utils/tf-idf along with cosine sim. 
 
-    def regex_find_all_words(self, document : str) -> list[str]:
-        """
-        Separates words from puncts.
-        
-        Args: 
-            document (str): the document.
-            
-        Returns: 
-            document_as_list (list[str]): the document as a list 
-        
-        """ 
-        
-        return re.findall(r"\b\w+\b", document)
-
+  
 
 
     def term_frequency(self, term : str, document: str) -> int:

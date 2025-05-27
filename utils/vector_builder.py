@@ -1,8 +1,8 @@
 import sys
-from tf_idf import pre_process
 import pathlib
 import numpy as np
-from tf_idf import tf_idf
+from regex_find_all_words import regex_find_all_words
+
 """
 Project for creating vectors out of a set of document
 
@@ -41,7 +41,7 @@ def get_unique_words_in_a_doc(all_words: set[str], maybe_file: pathlib.Path):
     """
     
     file_as_str = get_content_as_string(maybe_file)
-    tokens = pre_process(file_as_str)
+    tokens = regex_find_all_words(file_as_str)
     tokens_lower = {token.lower() for token in tokens} # is this a proper set comprehension? 
     all_words.update(tokens_lower)
             

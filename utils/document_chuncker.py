@@ -1,5 +1,5 @@
 from typing import Generator
-from tf_idf import pre_process
+from regex_find_all_words import regex_find_all_words
 
 """
 
@@ -11,7 +11,7 @@ Program for chunking a document
 
 def yield_chunk(document: str) -> Generator[str]: 
     
-    document_as_list = pre_process(document)
+    document_as_list = regex_find_all_words(document)
     SLIDING_WINDOW = 25
     CHUNK_SIZE = 50
     MAX_INDEX = len(document_as_list) - CHUNK_SIZE
@@ -26,9 +26,3 @@ def yield_chunk(document: str) -> Generator[str]:
         
     
     
-with open("test-doc-2.txt", "r") as f: 
-    doc = f.read()
-    
-    for i in yield_chunk(doc): 
-        print(i)
-        print("\n")
