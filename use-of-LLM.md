@@ -19,5 +19,5 @@ Chatgpt helped me with the folder structure and the import statements.
 
 Some comments on stuff not covered in the course, itertools, numpy and generators, what are they, why do I use them, how did I learn about them, and so on. 
 
-
+chatgpt did write the .toml file. 
 
