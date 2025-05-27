@@ -108,7 +108,8 @@ class Plagiarism_System:
             for token in tokens: 
                 token = token.lower()
                 if token not in self._mapping_reversed: 
-                    continue
+                    print(token in self._vocab)
+                    sys.exit("impossibru!")
                 index = self._mapping_reversed[token]
                 nparr[index] = self.tf_idf(token, chunk)
             chunk.set_vector(nparr)
@@ -120,7 +121,7 @@ class Plagiarism_System:
         
         for term in self._vocab: 
             for chunk in self._doc_chunks_input + self._doc_chunks: 
-                if term in chunk.get_content(): 
+                if term.lower() in chunk.get_content(): 
                     self._doc_frequency_dict[term] = self._doc_frequency_dict.get(term, 0) + 1
     
     
@@ -173,7 +174,12 @@ class Plagiarism_System:
     def document_frequency(self, term : str) -> int: 
       
        
-        return self._doc_frequency_dict[term]
+        if term in self._doc_frequency_dict: 
+            
+            return self._doc_frequency_dict[term]
+        else: 
+            print(f"could not find {term}")
+            return 1
 
     #TODO maybe consider doing with the doc frequency during the creation of the chuncks. 
 
