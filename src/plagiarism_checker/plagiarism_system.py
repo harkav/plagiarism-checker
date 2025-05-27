@@ -1,13 +1,10 @@
-import sys
-import os
-sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 
 
-from utils.cosine_similarity import cosine_similarity
-from utils.document_chuncker import yield_chunk
-from utils.vector_builder import build_word_list_from_input_and_corpus, get_content_as_string
+from plagiarism_checker.utils.cosine_similarity import cosine_similarity
+from plagiarism_checker.utils.document_chuncker import yield_chunk
+from plagiarism_checker.utils.vector_builder import build_word_list_from_input_and_corpus, get_content_as_string
 from itertools import product
-from doc_chunk import Doc_chunk
+from plagiarism_checker.doc_chunk import Doc_chunk
 import math
 import re 
 

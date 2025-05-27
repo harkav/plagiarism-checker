@@ -1,0 +1,31 @@
+.
+├── docs
+│   ├── 1.txt
+│   ├── 2.txt
+│   ├── 3.txt
+│   ├── test-doc-2.txt
+│   └── test-input.txt
+├── output.txt
+├── possible-workflow.md
+├── src
+│   ├── plagiarism_checker
+│   │   ├── doc_chunk.py
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   ├── plagiarism_system.py
+│   │   └── utils
+│   │       ├── cosine_similarity.py
+│   │       ├── document_chuncker.py
+│   │       ├── dotproduct.py
+│   │       ├── __init__.py
+│   │       ├── length_normalization.py
+│   │       ├── __pycache__
+│   │       │   ├── cosine_similarity.cpython-312.pyc
+│   │       │   └── __init__.cpython-312.pyc
+│   │       ├── regex_find_all_words.py
+│   │       └── vector_builder.py
+│   └── __pycache__
+│       └── plagiarism_system.cpython-312.pyc
+└── tests
+
+8 directories, 21 files

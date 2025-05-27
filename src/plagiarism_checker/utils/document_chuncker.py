@@ -1,5 +1,5 @@
 from typing import Generator
-from regex_find_all_words import regex_find_all_words
+from plagiarism_checker.utils.regex_find_all_words import regex_find_all_words
 
 """
 
@@ -9,7 +9,7 @@ Program for chunking a document
 
 
 
-def yield_chunk(document: str) -> Generator[str]: 
+def yield_chunk(document: str): 
     
     document_as_list = regex_find_all_words(document)
     SLIDING_WINDOW = 25

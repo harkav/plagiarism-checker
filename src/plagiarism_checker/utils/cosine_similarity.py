@@ -1,5 +1,5 @@
-from length_normalization import length_normalization
-from dotproduct import dot_product
+from plagiarism_checker.utils.length_normalization import length_normalization
+from plagiarism_checker.utils.dotproduct import dot_product
 
 def cosine_similarity(vector1: list[float], vector2 : list[float]) -> float :
     """
