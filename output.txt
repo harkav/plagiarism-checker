@@ -1,31 +1,14 @@
-.
-├── docs
-│   ├── 1.txt
-│   ├── 2.txt
-│   ├── 3.txt
-│   ├── test-doc-2.txt
-│   └── test-input.txt
-├── output.txt
-├── possible-workflow.md
-├── src
-│   ├── plagiarism_checker
-│   │   ├── doc_chunk.py
-│   │   ├── __init__.py
-│   │   ├── main.py
-│   │   ├── plagiarism_system.py
-│   │   └── utils
-│   │       ├── cosine_similarity.py
-│   │       ├── document_chuncker.py
-│   │       ├── dotproduct.py
-│   │       ├── __init__.py
-│   │       ├── length_normalization.py
-│   │       ├── __pycache__
-│   │       │   ├── cosine_similarity.cpython-312.pyc
-│   │       │   └── __init__.cpython-312.pyc
-│   │       ├── regex_find_all_words.py
-│   │       └── vector_builder.py
-│   └── __pycache__
-│       └── plagiarism_system.cpython-312.pyc
-└── tests
-
-8 directories, 21 files
+PYTHONPATH: src
+0.9258200997725516
+Similarity between input doc-id input-600 and skam.txt-250 is 89.15 %
+Similarity between input doc-id input-625 and skam.txt-275 is 95.30 %
+Similarity between input doc-id input-650 and skam.txt-300 is 96.42 %
+Similarity between input doc-id input-675 and skam.txt-325 is 93.70 %
+Similarity between input doc-id input-700 and skam.txt-350 is 98.48 %
+Similarity between input doc-id input-725 and skam.txt-375 is 97.87 %
+Similarity between input doc-id input-750 and skam.txt-400 is 96.95 %
+Similarity between input doc-id input-775 and skam.txt-425 is 96.40 %
+Similarity between input doc-id input-800 and skam.txt-450 is 96.83 %
+Similarity between input doc-id input-825 and skam.txt-475 is 87.36 %
+Similarity between input doc-id input-850 and skam.txt-500 is 97.67 %
+Similarity between input doc-id input-875 and skam.txt-525 is 95.05 %

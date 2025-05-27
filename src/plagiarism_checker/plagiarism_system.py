@@ -1,11 +1,13 @@
 import pathlib
+import sys
 from plagiarism_checker.utils.cosine_similarity import cosine_similarity
 from plagiarism_checker.utils.document_chuncker import yield_chunk, build_chunk_from_text
 from plagiarism_checker.utils.vector_builder import build_word_list_from_input_and_corpus, get_content_as_string
+from plagiarism_checker.utils.regex_find_all_words import regex_find_all_words
 from itertools import product
 from plagiarism_checker.doc_chunk import Doc_chunk
 import math
-import re 
+import numpy as np
 
 
 class Plagiarism_System: 
@@ -21,12 +23,13 @@ class Plagiarism_System:
         self._doc_chunks_input = [] # might be a good idea to keep these separate. 
         self._doc_chunks = []
         self.preprocess_documents(self._input_file, self._document_dir)
+        self.build_vectors()
         
         
         
     
     def build_vocab(self) -> None: 
-        self._vocab = build_word_list_from_input_and_corpus(self._input_file, self._document_dir)
+        self._vocab = build_word_list_from_input_and_corpus(self._document_dir, self._input_file)
         
         
     def get_paths_from_dir(self, dir : str) -> list[tuple[pathlib.Path, str]]: 
@@ -95,6 +98,24 @@ class Plagiarism_System:
         self.build_df_dict()
     
     
+    def build_vectors(self)-> None: 
+        
+        
+        for chunk in self._doc_chunks_input + self._doc_chunks: 
+            tokens = regex_find_all_words(chunk.get_content())
+            nparr = np.zeros(len(self._vocab))
+            
+            for token in tokens: 
+                token = token.lower()
+                if token not in self._mapping_reversed: 
+                    continue
+                index = self._mapping_reversed[token]
+                nparr[index] = self.tf_idf(token, chunk)
+            chunk.set_vector(nparr)
+                
+            
+    
+    
     def build_df_dict(self) -> None: 
         
         for term in self._vocab: 
@@ -137,7 +158,7 @@ class Plagiarism_System:
             frequency (int): the count of term in document.
 
         """ 
-        words_in_doc = [word.lower() for word in self.regex_find_all_words(document)]
+        words_in_doc = [word.lower() for word in regex_find_all_words(document.get_content())]
         count = 0
         
         for word in words_in_doc: 
@@ -149,15 +170,15 @@ class Plagiarism_System:
         
 
 
-    def document_frequency(self) -> int: 
+    def document_frequency(self, term : str) -> int: 
       
        
-        return self._doc_frequency_dict["term"]
+        return self._doc_frequency_dict[term]
 
     #TODO maybe consider doing with the doc frequency during the creation of the chuncks. 
 
 
-    def inverse_document_frequency(self, term: str, documents: list[str]) -> float: 
+    def inverse_document_frequency(self, term: str) -> float: 
         """
         Finds the inverse document frequency of the term.
         
@@ -171,14 +192,14 @@ class Plagiarism_System:
         
         """
         
-        N = len(documents)
-        df = self.document_frequency(term, documents)
+        N = len(self._doc_chunks_input + self._doc_chunks)
+        df = self.document_frequency(term)
         
         
         return math.log(N / (1 + df))
 
 
-    def tf_idf(self, term: str, single_document: list[str], documents: list[str]) -> float: 
+    def tf_idf(self, term: str, single_document) -> float: 
         
         #
         """
@@ -192,6 +213,6 @@ class Plagiarism_System:
         Returns: 
             tf-idf (float): the tf-idf based on the input.
         """
-        return self.term_frequency(term, single_document) * self.inverse_document_frequency(term, documents)
+        return self.term_frequency(term, single_document) * self.inverse_document_frequency(term)
 
 

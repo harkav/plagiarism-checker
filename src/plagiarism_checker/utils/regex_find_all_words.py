@@ -1,6 +1,6 @@
 import re 
 
-def regex_find_all_words(self, document : str) -> list[str]:
+def regex_find_all_words(document : str) -> list[str]:
     """
     Separates words from puncts.
     

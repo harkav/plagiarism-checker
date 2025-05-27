@@ -1,0 +1,450 @@
+REEDOM AS SUBMISSION
+TO THE MORAL LAW
+can be held accountable for his or her actions. Simply hav-
+ing the urge to kill does not make someone a mass mur-
+derer, they must also follow through on their inclinations.
+This ‘follow through’ raises subsequent questions on the
+concept “freedom”.
+I will proceed in the following way: Firstly, I will give
+an account of the will, and then move on to how a will
+can be said to be free. Secondly, I will discuss Kant’s two
+concepts of freedom of the will: freedom of choice (or
+psychological freedom) and transcendental freedom. The
+latter is a will that is in accordance with the moral law,
+the former can roughly be called a common-sense view
+of freedom of the will. Thirdly, I will go on to discuss au-
+tonomy and rational agency. Autonomy is, briefly put, the
+ability to act by one own’s accord, while heteronomy is the
+opposite. For Kant, I think that autonomy is to act in ac-
+cordance with the moral law, while heteronomy would be
+to act for any other reason. Furthermore, rational agency
+is to act in accordance with imperatives, either hypotheti-
+cal or categorical. Finally, I will give an account of Henry
+Allison’s incorporation thesis, and how this relates to the
+other concepts mentioned above, before I end the essay
+with a discussion on moral responsibility. Kant was a high-
+ly complex thinker, and it will therefore be useful to bring
+in some secondary literature in order to make Kant’s ideas
+In this paper I shall account for a few central questions
+in Kant’s philosophy important for the justification of
+his ethics, and probably ethics in general. ‘Ought’ implies
+‘can’. In other words, if there are things that we ought to
+do, then we must be able to choose to do them. If we are
+merely automata, mindless pieces on a cosmic chessboard,
+then ethics appears to be something quite different from
+what we normally consider it to be.
+If, for instance, we are not free to choose how to act in
+any meaningful way, then to say that a mass murderer is
+evil is quite the same as to say that a flower is ugly. They
+are both judgements that are not premised on any kind
+of agency of the subject being judged. The flower has a
+particular set of genes, it grew up in a specific environ-
+ment where certain things that are essential for making the
+flower beautiful were lacking, and so on, and so too with
+the mass murderer. He or she was dealt a horrible hand
+by nature, inherited bad genes, grew up in a bad family,
+and therefore he or she could not be anything else than a
+mass-murderer, just like the flower could not be anything
+other than ugly.
+However, if we have free will then it seems plausible
+that the mass murderer can transcend his or her inclina-
+tions. So, even if he or she has been dealt a horrible hand
+by nature, due to the fact that he or she is free, he or she
+By Harald Langslet Kavli
+What does it mean to say that we have a free will and how can we reconcile the concept of a free will with the fact
+that so much of what makes us act the way we do seems to be caused by causes outside ourselves? If our actions are
+merely the consequences of the whims of fortune, does it even make sense to talk about ethics as something qualita-
+tively different from aesthetics? To answer these questions, I turn to Immanuel Kant’s concept of freedom of the will.
+ABBREVIATIONS
+CpR = Critique of Practical Reason
+G = Groundwork of the Metaphysics of Morals
+Rel = Religion Within the Boundaries of Mere Reason29
+clearer. First, though, I will consider Kant’s conception of
+a maxim, which is important to understanding what we
+do when we act.
+I will argue that Kant’s conception of freedom of the
+will entails a submission of our will to the moral law. This
+contrasts with a common-sense and pre-theoretical con-
+ception of freedom of the will, for instance that freedom
+of the will consists in doing what we want to do, whatever
+that might be. I will try to keep this contrasting concept in
+mind throughout the paper, and hopefully give the reader
+some reasons for moving towards Kant’s concept and away
+from the pre-theoretical one.
+I. Maxims, Actions and Rational Agency
+In a footnote in Groundwork, Kant defines a maxim as:
+the subjective principle of volition; the objective prin-
+ciple (i.e., that which would also serve subjectively as
+the practical principle for all rational beings if reason
+had complete control over the faculty of desire) is the
+practical law (G, footnote to 4:401).
+It seems as though Kant views maxims as working a bit
+like a computer program, so a specific maxim could then
+be “If A happens, then do B, so that C”. Or with a more
+concrete example: If I get in a situation where my life is
+threatened (A), do tell a lie (B) if that can get me out of the
+situation (C). This is of course a maxim that Kant would
+reject, although it bears the form of a maxim. Kant seems
+to think that we form maxims when we deliberate on how
+we should act, and that is what makes us rational agents.
+Rational agency is also connected to forming maxims
+in this means-ends way. If I have a desire for something in
+a certain situation, I can use my reason to find the means
+to fulfill that desire. For instance, if I desire a cold beer on
+a hot summer’s day, I can form the maxim “If it is a hot
+summer’s day, go to the fridge and get a beer”. In this way,
+I form a hypothetical imperative: if I want C in A, do B.
+The imperative is binding, however, only to the extent that
+I actually do desire C. On the other hand, a categorical
+imperative is binding regardless of my inclinations.
+II. The Will and Two Conceptions of the Freedom of
+the Will
+The will is a kind of causality of living beings insofar as
+they are rational, and freedom would be that property
+of such causality that it can be efficient independently
+of alien causes determining it, just as natural necessity
+is the property of the causality of all nonrational beings
+to be determined to activity by the influence of alien
+causes (G, 4:446).
+Returning to the comparison between the flower and the
+mass murderer considered above, we can outline an ex-
+planation of how we can blame the mass murderer for his
+evil, but not the flower for its ugliness. Unlike the flower,
+which is merely determined by alien causes (as in exter-
+nal causes or anything that is outside of the will), like the
+nutrients in the soil and access to water and sunlight, the
+mass murderer is not just determined by “external causes”.
+He is also determined by something that is not external to
+him, namely his will. How can this be enough for us to
+say that the mass murderer is accountable for his actions?
+Having a will makes us able to act in a way that is not
+merely determined by natural necessity, but rather of our
+own making. This is not quite enough, though, because if
+we simply use our will to act in accordance with our incli-
+nations, then it turns out to be not that different from the
+flower. This flower turned out ugly because it grew up in
+a poor environment, and this person turned in to a mass
+murderer because he had this set of inclinations. For the
+will to be truly free, then, it must transcend the inclinati-
+ons of the person who has the will, and if it does not do so,
+the action is not the result of an agent having submitted
+his or her will to the moral law. If for instance, the mass
+murderer is inclined to kill someone in a certain situation,
+their will will be free when they do not simply let it (their
+will) be an extension of their inclinations to kill, but rather
+subject their will to a moral law. His will will then be free,
+in that it is not merely caused by the mass murderer having
+a certain set of inclinations that are determined by things
+outside his control. On this point, Kant writes:
+[...] in the question about that freedom which must be
+put at the basis of all moral laws and the imputation
+appropriate to them, it does not matter whether the
+causality determined in accordance with a natural law
+is necessary through determining grounds lying within
+the subject or outside him, or in the first case whether
+these determining grounds are instinctive or thought
+by reason, if, [...] these determining representations
+have the ground of their existence in time and indeed
+in the antecedent state, and this in turn in a preced-
+ing state, and so forth, these determinations may be
+internal and they may have psychological instead of
+mechanical causality, that is, produce actions by means
+of representations and not by bodily movements; they
+ARTIKKEL30
+are always determining grounds of the causality of a
+being insofar as its existence is determinable in time
+and therefore under the necessitating conditions of
+past time, which are thus, when the subject is to act,
+no longer within his control, and which may therefore
+bring with them psychological freedom (if one wants
+to use this term for a merely internal chain of represen-
+tations in the soul) but nevertheless natural necessity;
+and they therefore leave no transcendental freedom,
+which must be thought as independence from eve-
+rything empirical and so from nature generally, [...];
+without this freedom (in the latter and proper sense),
+which alone is practical a priori, no moral law is pos-
+sible and no imputation in accordance with it (CpR,
+AA 5:96–7).
+If the will is to be free in the transcendental way, and not
+merely psychological, it must submit to the principle “to
+act on no other maxim than that which can also have as
+an object itself as a universal law” (G, 4:447). Thus goes
+the universality formulation of the categorical imperative.
+On the grounds of this formulation, Kant concludes that
+“a free will and a will under moral laws are one and the
+same” (G, 4:447).
+We see that Kant deviates from a completely liberta-
+rian conception of the free will, which Kant calls a psycho-
+logical freedom of the will. Freedom, in the meaningful
+way, is not merely to choose X rather than Y, since that
+choice can just be the result of a chain of mental causes.
+This would not be that different from the flower merely
+responding to its environment or the mass murderer who
+simply follows his inclinations.
+Furthermore, it would also be insufficient to talk about
+blameworthiness or praiseworthiness. For, if two people
+act in accordance with their inclinations, but Person 1’s
+inclinations are mostly benevolent, whereas Person 2’s are
+malevolent, they are nonetheless both as determined by
+natural necessity. As such, neither can be accorded praise
+or blame.
+A person can be blamed or praised, however, on the
+basis of whether he or she chooses to submit his or her will
+to the moral law, and by doing so, transcending his or her
+inclinations. It is reason that gives us the capacity to do so.
+It might be objected that this seems to give us much
+less elbow room in the way we act, and therefore, that this
+conception of the freedom is at the very least a bit odd.
+The agent who does not submit his or her will to the moral
+law, can choose to help or ignore someone in need of help,
+while the person who does submit his or her will cannot.
+FREEDOM AS SUBMISSION TO THE MORAL LAW
+For example, if the agent in question sees someone drow-
+ning and they have not chosen to submit their will, then it
+seems that the choice is open for them. That is, he or she
+can choose to either try to help the drowning person, or to
+ignore them. On the other hand, for the person who has
+submitted his or her will to the moral law, it seems like
+there is only one choice—he or she must help the drow-
+ning person (excluding the possibility that there are not
+very good reasons for not doing so). If I (and presumably
+anyone else) had been the person drowning, I would have
+wanted someone to help. Therefore, I would not will that
+(the act of ) ignoring someone who is drowning, even if
+one is capable of helping them, should be a universal law.
+At first glance it seems then that a person acting in
+accordance with his or her freedom of choice is more free.
+There are simply more ways of being in the world for those
+who act in accordance with their freedom of choice. They
+can choose to ignore people who are drowning, or wither
+away in an apartment, spending their lives on videogames,
+or they can dedicate their lives to becoming a tyrant. They
+can choose the most sociopathic behaviour imaginable, or
+they can choose to emulate a saint. But Kant would object,
+I think, by saying that as long as the will has not been sub-
+mitted to the moral law, they are acting in the accordance
+with their inclinations, and therefore, while some of them
+might be more or less pro-social due to their inclinations,
+none of them are truly free. Their acts are just caused by
+natural necessity.
+Also, when we try to figure out what we should do,
+or how we should live, we are not looking for as many
+options to the answer as possible, but rather for the right
+answer.
+It seems, however, that Kant presupposes that the
+idea of the ‘self ’ is constituted more so by reason, rather
+than one’s inclinations and passions. In order to give some
+weight to this presupposition, I will now turn to Henry
+Allison’s discussion.
+III. The Incorporation Thesis
+In chapter 2 of his book Kant’s Theory of Freedom, Henry
+Allison discusses the distinction between the empirical and
+intelligible character in Kant’s philosophy. A first approach
+to this distinction, which Allison uses, is to draw on the
+distinction Kant makes between the phenomenal and the
+noumenal world. There is a way in which the world and
+every object in the world appears to me, due to my senses
+and categories, but there is also a world of objects in them-
+selves, that is, a world of objects as they are in themsel-
+ves. Allison quotes Kant who writes “Every efficient cause31HARALD LANGSLET KAVLI
+must have a character, that is, a law of its causality without
+which it would not be a cause” (A539/B567, quoted in
+Allison 1990, 30). If therefore, every efficient cause must
+have a character, it seems then that ‘character’ in this sense
+is not only something that a human can have, since it is
+not only humans which can be efficient causes of somet-
+hing. To say that the character is ‘empirical’ means here
+that it is accessible through the senses and “describable in
+empirical terms” (Allison 1990, 30). Allison also claims
+that Kant thought that at least some rational agents can
+be conceived of as having not only an empirical character,
+but also an intelligible character. That the character is ‘in-
+telligible’ means that the character and its activity “would
+neither conform to the conditions of possible experience
+nor be describable in empirical terms” (Ibid.). With this
+conception, we get the “the formula for the thought of the
+empirically unconditioned activity of a noumenal subject”
+(Ibid.). The key idea here is that an empirical character is
+to a large extent caused by things outside of him or herself,
+while an intelligible character is not.
+Kant claims that:
+[T]he will of every man has an empirical character,
+which is nothing but a certain causality of his rea-
+son, so far as that causality exhibits, in its effects in the
+[field] of appearance, a rule from which we may gather
+what, in their kind and degrees, are the actions of rea-
+son and the grounds thereof, and so may form an es-
+timate concerning the subjective principles of his will.
+Since this empirical character must itself be discovered
+from the appearances which are its effect and from the
+rule to which experience shows them to conform, it
+follows that all the actions of men in the [field of ]
+appearance are determined in conformity with the or-
+der of nature, by their empirical character and by the
+other causes which cooperate with that character; and
+if we could exhaustively investigate all the appearances
+of men’s wills, there would not be found a single hu-
+man action which we could not predict with certainty,
+and recognize as proceeding necessarily from its ante-
+cedent conditions. So far, then, as regards this empiri-
+cal character there is no freedom; and yet it is only in
+the light of this character that man can be studied - if,
+that is to say, we are simply observing, and in the man-
+ner of anthropology seeking to institute a physiologi-
+cal investigation into the motive causes of his actions.
+(A549–550/B577–8, quoted in Allison 1990, 31)
+This excerpt reveals something interesting about Kant’s de-
+terminism. As Allisson points out, this does not depend on
+a token-token identification between physical states and
+mental states or a neurophysiological reduction, but they
+are rather largely psychological (Allison 1990, 31). So, for
+instance, if I yell at my neighbour for playing the trumpet,
+it is caused by my beliefs, inclinations and desires, such as
+the desire to be spared of the cacophony wrought about by
+my neighbour’s trumpet playing, and the belief that to yell
+at him is both the proper thing for me to do and also an
+efficient way to silence him.
+Allison then goes on to discuss the relationship bet-
+ween the intelligible and empirical character, and points
+to an ambiguity in the excerpt from Kant quoted above.
+Do “the actions of reason” and “the subjective principles of
+his will” refer to the intelligible or the empirical character?
+Allison claims we should take these things to refer to the
+empirical character, and that this reading will enable us to:
+attribute a causality of reason to the empirical character
+of the will of a rational agent. The crucial point here is
+that, so construed, the empirical character involves not
+simply a disposition to behave or to respond in certain
+predictable ways in given situations but a disposition
+to act on the basis of certain maxims, to pursue certain
+ends, and to select certain means for the realization of
+these ends. That is why even the empirical study of
+human behaviour, particularly that which is provided
+by “pragmatic anthropology,” is, in a very real sense, a
+study of rational agency (Ibid., 33).
+Allison claims that Kant thought “the capacity to act on
+the basis of imperatives in general (not merely the cate-
+gorical imperative) as the defining characteristic of free
+agency” (Ibid, 36). In other words, free agency also inclu-
+des the capacity to act on hypothetical imperatives, such as
+if I want to be free of the noise, I should complain. If I do
+so, I will not only act on the desire to get rid of the noise,
+but also act on a practical rule: if the neighbour is noisy,
+then complain. Furthermore, simply having a desire is not
+sufficient to act; I also need a principle for action. Allison
+quotes Kant who says that:
+freedom of the will [Willkür] is of a wholly unique
+nature in that an incentive can determine the will to an
+action only insofar as the individual has incorporated it
+into his maxim (has made it into the general rule in ac-
+cordance with which he will conduct himself...) (Rel
+6:24; 19, quoted in Allison 1990, 39–40).
+ARTIKKEL32
+Illustration by Stine S. Gudbrandsen
+The incorporation thesis is then the claim that to merely
+have an inclination or desire is not sufficient to cause an
+action, I also need to incorporate the former into a rule
+for acting, that is, a maxim. Allison connects this thesis
+with Kant’s claim that we cannot act except under the
+idea of freedom (G 4:448, 115). Allison claims that “I
+cannot conceive of myself as [a rational] agent without
+regarding myself as pursing ends that I frame for myself
+and that I regard as rational to pursue” (Allison 1990, 40).
+Furthermore, I must believe that I control my inclinati-
+ons, in that I can decide which of them I want to act on.
+He further claims that “we cannot conceive of ourselves as
+rational agents without attributing to our agency an ‘intel-
+ligible character’, capable of determining itself to act on
+the basis of rational principles, ‘independently of the con-
+ditions of time” (Ibid., 41).
+There are some issues with this interpretation. What,
+for instance, comes of Kant’s distinction between psy-
+chological freedom and transcendental freedom? In Kant
+it seems like it is only the latter sense of freedom that is
+freedom proper, since it is transcendental freedom that is
+independent of external causes. In Allison’s reading, ho-
+wever, they seem to be equal to each other.
+The most important takeaway, however, is the idea of
+the intelligible character. I will dare to say that since this
+character is not merely a bundle of the effects of exter-
+nal causes, but rather something more stable, that Kant
+might have thought that the intelligible character is more
+properly ourself, rather than our empirical character. More
+work is needed to defend this idea, but unfortunately this
+is beyond the scope of this paper.
+IV. Moral Responsibility
+How then should we think about moral responsibility?
+Can we say that a person is ‘free enough’ to be culpable
+for his or her actions? Based on the preceding discussion,
+we cannot say that a person is free to have a particular set
+of inclinations, beliefs or desires. They are free to subsume
+these things under a moral law, and if there is a resulting
+action, this is what we are therefore culpable for. It also
+seems like reason gives us the ability to choose which in-
+clinations we should follow and which we should supress,
+or to act regardless of any inclination beyond respect for
+the moral law. It gives us the ability to identify ends and
+means for these ends, and therefore to be less fully deter-
+mined by our inclinations. On this picture, a human is
+FREEDOM AS SUBMISSION TO THE MORAL LAW33
+more than just a sophisticated machine, and so given the
+elbow room that he or she has to be governed by his or her
+will, it seems highly plausible that he or she can also be
+held accountable for his or her actions.
+One interesting question that remains unresolved, at
+least for me, is whether Kant thinks that we can or may
+influence our inclinations, and whether he thinks that we
+have any reason to attempt this. Would Kant for instance
+think that an extremely sadistic person who supresses the
+urge to act on their inclinations, and rather submits his
+will to the moral law, has done all that he or she needs
+to do? Or should this person also try to align his or her
+inclinations to a more benevolent attitude? Kant is clear
+that an act only has moral worth if it is done out of duty.
+Therefore, it seems that whether you have benevolent at-
+titudes or not is irrelevant for the moral worth of your ac-
+tions. But would he still be open to a pragmatic argument
+that working on your inclinations, to the extent that it is
+possible, might make it easier for you to actually act from
+duty in the long run? Also, would that perhaps be in ac-
+cordance with the categorical imperative? At least to me it
+seems quite plausible that I could will to be a moral law
+that says that people should work on their inclinations.
+V. Conclusion
+I have accounted for Kant’s conception of freedom, auto-
+nomy, rational agency and Allison’s incorporation thesis.
+Freedom can be both psychological, which is merely the
+ability to act on a desire, or transcendental, which is to
+act in accordance with the moral law. In the latter, our
+actions are autonomous, as opposed to heteronomous.
+Rational agency involves the creation of a maxim for an
+action, which again involves an imperative that can be
+either hypothetical/prudential or categorical. The incorpo-
+ration thesis is the claim that merely having an inclination
+or desire is not sufficient to cause an action; I also need to
+incorporate it into a rule for acting, that is, a maxim.
+The notion of freedom has significant bearing on
+moral responsibility, and I have attempted to demonstrate
+how Kant brings a lot to the table that can enable us to un-
+derstand this better. We are free when we chose to ignore
+our inclinations and rather submit our wills to the moral
+laws which we can grasp with our ability to reason. Some
+might still be a bit perplexed that we have ended up with a
+conception of freedom which seems to be quite restrictive.
+Freedom, someone might say, consists in being able to
+do whatever we desire to do. I hope, however, that I have
+given some reasons against this intuition. Our inclinations
+are to a large extent caused by things outside of our own
+control. We cannot control our genes, our upbringing, or
+to a large extent our circumstances. But we can, according
+to Kant, choose how to respond to our inclinations. This
+conception of freedom might take us far afield from any
+pre-theoretic conception of freedom, but it is nevertheless
+far from unique in the history of the concept of freedom
+of the will. Similar ideas were stated by other thinkers like
+Epictetus and St. Anselm.1 To give further reasons for ac-
+cepting a Kantian conception of freedom of the will, it
+might be necessary to explore the conception of selfhood,
+and the question on whether our reason is more truly our-
+selves than our passions and inclinations.

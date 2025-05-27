@@ -15,4 +15,7 @@ class Doc_chunk:
         
 
     def get_content(self): 
-        return self.content 
+        return self.content
+    
+    def set_vector(self, vector): 
+        self.vector = vector 
