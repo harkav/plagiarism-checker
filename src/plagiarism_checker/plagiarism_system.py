@@ -1,7 +1,6 @@
-
-
+import pathlib
 from plagiarism_checker.utils.cosine_similarity import cosine_similarity
-from plagiarism_checker.utils.document_chuncker import yield_chunk
+from plagiarism_checker.utils.document_chuncker import yield_chunk, build_chunk_from_text
 from plagiarism_checker.utils.vector_builder import build_word_list_from_input_and_corpus, get_content_as_string
 from itertools import product
 from plagiarism_checker.doc_chunk import Doc_chunk
@@ -16,13 +15,29 @@ class Plagiarism_System:
         self._document_dir = document_dir
         self._vocab = [] # will contain all the unique terms
         self._doc_frequency_dict = dict()
+        self._mapping = None
+        self._mapping_reversed = None
         # mapping.... Or mappings.
         self._doc_chunks_input = [] # might be a good idea to keep these separate. 
         self._doc_chunks = []
-        #self.preprocess_documents(self, self._input_file, self._document_dir)
+        self.preprocess_documents(self._input_file, self._document_dir)
         
         
         
+    
+    def build_vocab(self) -> None: 
+        self._vocab = build_word_list_from_input_and_corpus(self._input_file, self._document_dir)
+        
+        
+    def get_paths_from_dir(self, dir : str) -> list[tuple[pathlib.Path, str]]: 
+        
+        paths = []
+        directory = pathlib.Path(dir)
+        for file in directory.iterdir(): 
+            if file.is_file(): 
+                paths.append((file, file.name))
+        return paths  
+    
     def preprocess_documents(self, input_file, document_dir): 
          
     # preprocess the docs, fill out the constructor. 
@@ -47,8 +62,7 @@ class Plagiarism_System:
         """
         
         # 1 
-    
-        self._vocab = build_word_list_from_input_and_corpus(self._input_file, self._document_dir)
+        self.build_vocab()
         
         # 2 
         
@@ -56,23 +70,37 @@ class Plagiarism_System:
         
         input_file_as_str = get_content_as_string(self._input_file)
         
-        self._doc_chunks_input = yield_chunk(input_file_as_str)
+        for chunk_tuple in  yield_chunk(input_file_as_str): 
+            self._doc_chunks_input.append(build_chunk_from_text(chunk_tuple, doc_identifier="input"))
         
+        
+        # for corpus in db: 
+        
+        for path in self.get_paths_from_dir(self._document_dir): 
+            corpus_file_as_str = get_content_as_string(path[0])
+            
+            for chunk_tuple in yield_chunk(corpus_file_as_str): 
+                self._doc_chunks.append(build_chunk_from_text(chunk_tuple, doc_identifier=path[1]))
+            
         
             
-
+        # 3 - create mapping
+        
+        self._mapping = {i : term for i, term in enumerate(self._vocab)}
+        self._mapping_reversed = {v : k for k, v in self._mapping.items()}
+        
+        
+        #4 
+        
+        self.build_df_dict()
     
     
-    def build_df_dict(self): 
+    def build_df_dict(self) -> None: 
         
         for term in self._vocab: 
-            
-            for doc in zip(self._doc_chunks_input, self._doc_chunks): 
-                if term in doc: 
-                    if self._doc_frequency_dict[term]: 
-                        self._doc_frequency_dict[term] +=1 
-                    else: 
-                        self._doc_frequency_dict[term] = 1
+            for chunk in self._doc_chunks_input + self._doc_chunks: 
+                if term in chunk.get_content(): 
+                    self._doc_frequency_dict[term] = self._doc_frequency_dict.get(term, 0) + 1
     
     
     
