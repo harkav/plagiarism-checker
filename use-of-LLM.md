@@ -15,3 +15,9 @@ It might help me with creating a toml file to make it easier to run, haven't tho
 
 The text docs (in /docs and the testinputs) are based on things I've written in the past. 
 
+Chatgpt helped me with the folder structure and the import statements. 
+
+Some comments on stuff not covered in the course, itertools, numpy and generators, what are they, why do I use them, how did I learn about them, and so on. 
+
+
+

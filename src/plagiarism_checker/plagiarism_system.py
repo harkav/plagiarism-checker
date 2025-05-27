@@ -29,6 +29,10 @@ class Plagiarism_System:
         
     
     def build_vocab(self) -> None: 
+        """
+        Builds the vocab-arr. 
+        """
+        
         self._vocab = build_word_list_from_input_and_corpus(self._document_dir, self._input_file)
         
         
@@ -106,10 +110,10 @@ class Plagiarism_System:
             nparr = np.zeros(len(self._vocab))
             
             for token in tokens: 
+                
                 token = token.lower()
                 if token not in self._mapping_reversed: 
                     print(token in self._vocab)
-                    sys.exit("impossibru!")
                 index = self._mapping_reversed[token]
                 nparr[index] = self.tf_idf(token, chunk)
             chunk.set_vector(nparr)
