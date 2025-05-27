@@ -1,3 +1,8 @@
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.dirname(__file__)))
+
+
 from utils.cosine_similarity import cosine_similarity
 from utils.document_chuncker import yield_chunk
 from utils.vector_builder import build_word_list_from_input_and_corpus, get_content_as_string
@@ -17,7 +22,7 @@ class Plagiarism_System:
         # mapping.... Or mappings.
         self._doc_chunks_input = [] # might be a good idea to keep these separate. 
         self._doc_chunks = []
-        self.preprocess_documents(self, self._input_file, self._document_dir)
+        #self.preprocess_documents(self, self._input_file, self._document_dir)
         
         
         
