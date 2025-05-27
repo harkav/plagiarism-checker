@@ -24,6 +24,3 @@ def cosine_similarity(vector1: list[float], vector2 : list[float]) -> float :
     vector2_normalized = length_normalization(vector2)
     
     return dot_product(vector1_normalized, vector2_normalized)
-
-
-print(cosine_similarity([1, 2, 3], [2, 2, 2]))

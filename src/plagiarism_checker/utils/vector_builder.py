@@ -26,7 +26,7 @@ def build_word_list_from_input_and_corpus(dir_path: str, input_doc : str) -> lis
     except (FileNotFoundError, IOError): 
         sys.exit("Could not read input doc")
     
-    return list(sorted(all_words))
+    return [word.lower() for word in list(sorted(all_words))]
 
 def get_unique_words_in_a_doc(all_words: set[str], maybe_file: pathlib.Path):
     """

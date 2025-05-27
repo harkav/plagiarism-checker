@@ -9,7 +9,7 @@ Program for chunking a document
 
 
 
-def yield_chunk(document: str): 
+def yield_chunk(document: str) -> Generator: 
     
     document_as_list = regex_find_all_words(document)
     SLIDING_WINDOW = 25
@@ -23,7 +23,7 @@ def yield_chunk(document: str):
         index += SLIDING_WINDOW
     # the tail end of the document will be ignored. Can review at some point. 
 
-def build_chunk_from_text(chunk_tuple : tuple[str, int], doc_identifier : str | None = None):
+def build_chunk_from_text(chunk_tuple : tuple[str, int], doc_identifier : str | None = None)-> Doc_chunk:
      
     if doc_identifier: 
          chunk_id = f"{doc_identifier}-{chunk_tuple[1]}"

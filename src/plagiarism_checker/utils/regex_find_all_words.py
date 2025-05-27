@@ -12,4 +12,4 @@ def regex_find_all_words(document : str) -> list[str]:
     
     """ 
     
-    return re.findall(r"\b\w+\b", document)
+    return [word.lower() for word in re.findall(r"\b\w+\b", document)]

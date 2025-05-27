@@ -122,7 +122,7 @@ class Plagiarism_System:
         for term in self._vocab: 
             for chunk in self._doc_chunks_input + self._doc_chunks: 
                 if term.lower() in chunk.get_content(): 
-                    self._doc_frequency_dict[term] = self._doc_frequency_dict.get(term, 0) + 1
+                    self._doc_frequency_dict[term.lower()] = self._doc_frequency_dict.get(term, 0) + 1
     
     
     
