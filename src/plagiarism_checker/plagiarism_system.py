@@ -1,5 +1,4 @@
 import pathlib
-import sys
 from plagiarism_checker.utils.cosine_similarity import cosine_similarity
 from plagiarism_checker.utils.document_chuncker import yield_chunk, build_chunk_from_text
 from plagiarism_checker.utils.vector_builder import build_word_list_from_input_and_corpus, get_content_as_string
@@ -49,24 +48,7 @@ class Plagiarism_System:
          
     # preprocess the docs, fill out the constructor. 
     
-        """
-        Sketched workflow, might not be the right order
         
-        1 build vocab from docs
-        
-        2 build chunks from docs 
-        
-        3 build a mapping from an index to the vocablist
-        
-        4 build dfs
-        
-        vector creation can be separated out to a different function, already getting long
-        
-        compare will deal with the comparisons 
-        
-        
-        
-        """
         
         # 1 
         self.build_vocab()

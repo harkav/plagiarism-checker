@@ -56,32 +56,4 @@ def get_content_as_string(filename : pathlib.Path) -> str:
         return file_as_str
          
         
-#print(build_word_list_from_input_and_corpus("./test-docs", "test-input.txt"))
-
-
-
-    
-
-
-"""
-ChatGpt suggested workflow for a plagiarism finder: 
-
-Input: List of documents.
-
-Preprocess: Tokenize and normalize each document.
-
-Build vocabulary: Gather all unique words across corpus.
-
-Vectorize: For each document, compute TF-IDF vector based on the vocabulary.
-
-Compare: Compute cosine similarity between every pair of document vectors.
-
-Detect: Flag pairs with similarity over a chosen threshold.
-
-Output: Present flagged pairs and similarity scores.
-
-
-What counts as a document? Several options, try to go for a gliding window. 
-
-"""
 
