@@ -1,5 +1,7 @@
 # Plagiarism checker 
 
+This was my final project in cs50x.
+
 This is a program meant to check an input document for plagiarism compared to a set of other documents.
 I would not, however, recommend taking it too seriously, since the possiblity of both false positives and 
 false negatives are quite real. 
