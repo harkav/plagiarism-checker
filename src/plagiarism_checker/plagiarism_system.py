@@ -6,7 +6,7 @@ from plagiarism_checker.utils.document_chuncker import (
     yield_chunk,
     build_chunk_from_text,
 )
-from plagiarism_checker.utils.vector_builder import (
+from plagiarism_checker.utils.file_to_str import (
     build_word_list_from_input_and_corpus,
     get_content_as_string,
 )
