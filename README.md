@@ -15,6 +15,11 @@ It used to be quite hard for me to understand how natural language can be repres
 way, and that is much clearer now. I guess then, that the main goal of this project is to learn more 
 about NLP, and not so much about actually checking a document for plagiarism. 
 
+I have prioritized to improve my own understanding on the algorithms, at the expense of optimizing the 
+progrma for large datasets. It would probably be better to rely on methods from some standard libraries 
+like scikit-learn rather than coding the algorithms myself from an optimization point of view. However, 
+this is mostly meant as a pedagogical tool for myself. 
+
 
 # How to install. 
 
