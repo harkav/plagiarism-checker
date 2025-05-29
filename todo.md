@@ -1,4 +1,7 @@
-look for bug causing something to not appear in the vocab. 
 
 doc strings, general tests. 
+
+begin thinking about making the vectors for the reference corpus persistent.
+
+clean things up. 
 

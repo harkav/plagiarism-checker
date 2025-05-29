@@ -12,7 +12,7 @@ from plagiarism_checker.utils.file_to_str import (
 )
 from plagiarism_checker.utils.regex_find_all_words import regex_find_all_words
 from itertools import product
-from plagiarism_checker.doc_chunk import Doc_chunk
+from plagiarism_checker.doc_chunk import DocChunk
 import math
 import numpy as np
 from opentelemetry import trace
