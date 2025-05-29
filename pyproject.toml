@@ -4,7 +4,11 @@ version = "0.1.0"
 description = "A basic NLP-based plagiarism detection system using TF-IDF and cosine similarity."
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = ["numpy==2.2.6"]
+dependencies = [
+    "numpy==2.2.6",
+    "opentelemetry-api>=1.33.1",
+    "opentelemetry-exporter-otlp>=1.33.1",
+    "opentelemetry-sdk>=1.33.1",]
 
 [build-system]
 requires = ["setuptools", "wheel"]
