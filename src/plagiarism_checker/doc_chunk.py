@@ -33,5 +33,10 @@ class DocChunk:
         return self.content
     
     def set_vector(self, vector: list[float])-> None: 
-        """sets the vector""" 
+        """sets the vector
+        
+        Returns: 
+            vector (list[float]): the vector.
+        
+        """ 
         self.vector = vector 
